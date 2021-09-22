@@ -1,0 +1,198 @@
+General
+
+Lasers are optimized by Optimus
+Human tools do not require adaptation
+Certain items, particularly Native items and Kozlov's Toy, become more powerful the more particles CT-41 has accumulated
+Destroyer items do not drain battery
+God items are superior to all other items of their class
+
+---------------------------------------------------------------------------------------------------------------
+
+Particles
+
+Many items work better the more particles of a particular type CT-41 is carrying
+Particles were treated as currency with intrinsic value by Natives, and are stored throughout the underground
+				
+Item					Beneficiary Particle		Particle Effect
+
+Volt Gun 				Free electrons				Increases the bounce distance
+Energy Siphon 			Superfluid					Increases the freeze rate
+Strange Attractor		Magnetic monopoles			Increases the magnetic attraction
+Impulse Cannon 			Stabilized neutronium		Increases the impulse strength and radius
+Anti-Grav Beam 			Anti-gravitons				Reduces power drain
+
+Mass Inhibitor			Higgs bosons				Inhibits a higher percentage of target mass
+
+Each Fragment of Thosmodeme hides a weapon that will allow CT-41 to navigate through the Ruler's Locus.
+
+
+
+
+		
+
+---------------------------------------------------------------------------------------------------------------
+
+Tools
+
+
+Optimizable
+
+Lasers can melt through ice, and activate Glowstone controls
+
+R Laser
+G Laser
+B Laser
+W Laser
+
+
+Material Destruction
+
+Item					Material Destroyed				Secondary Benefit
+
+Sonic Auger				Dissipates loose dirt			Slightly slows movement
+Impulse Cannon			Blows apart cracked stone		Produces radial impulse at point of impact
+Resonator				Evaporates ferric metals		Deals more damage to targets the longer it is trained on them
+
+
+Particle Tools
+
+Tools
+
+Item					Beneficiary Particle			Particle Benefits
+
+Volt Gun 				Free Electrons					Increases the bounce count, stun duration, and damage
+Energy Siphon 			Superfluid						Increases the energy extraction and slow rate
+Strange Attractor		Magnetic Monopoles				Increases the magnetic attraction
+Anti-Grav Beam 			Anti-Gravitons					Reduces power drain
+
+Pure weapons
+
+Ricochet Pulse			True Muonium					Increases initial damage, adds extra bounce
+Ballista				Gravitons						Increases damage, reduces cool down period after fire
+Scattershot				Pentaquarks						Increases damage per projectile, projectile count and spread
+Feedback Chamber		Q-balls							Increases maximum charge and recoil (time to max charge constant)
+Accelerator				Superconductors					Increases damage, fire rate and projectile speed
+Medusa													Decreases minimum mass requirement
+
+Toy						Unlike other Particle Tools, the Toy does not start out with any particles in its containment vessels	
+
+						Stabilized Neutronium			Allows CT-41 to significantly slow the passage of time for a targeted object
+						Strange Matter					Allows CT-41 to freeze an object in time, immutable
+						Quantum Black Holes				Allows CT-41 to cause an object to travel unstoppably backward along its world line
+
+
+Zero Energy/Aperture Tools
+
+Unlike normal tools, these do not drain battery, and may admit significant amounts of matter
+
+Solar Aperture			A slit opens wider over a period of seconds, exposing the corona of a white dwarf star
+Spread Wave				
+
+---------------------------------------------------------------------------------------------------------------
+
+Possible Weapons
+
+Seeker Aperture			Admits a homing projectile into the universe
+
+---------------------------------------------------------------------------------------------------------------
+
+Nothing physically corresponded to a storage medium in the construct able to give us the information we received.
+
+CT-41 initiates a process by which Destroyers enter the Underground
+Bots power supply is constant, but low
+With power restored, the unobstructed destroyer maintenance bot begins to retrofit the Underground
+Destroyers contruct a gateway large enough to admit CT-41
+
+
+Neutrino Collider		Neutrinos					Increases annihilation damage and radius
+
+
+Particle Candidates
+
+Good
+
+Antimatter
+Positronium
+Gravitons
+Tetraquark
+Glueballs
+Sterile neutrinos
+Accelerons
+Axions
+Chameleon Particles
+
+Bad
+
+Tachyons
+
+Ugly
+
+Chaotic Matter
+
+---------------------------------------------------------------------------------------------------------------
+
+Seeds
+
+Necrolith
+
+Translates
+Empowers other Seeds, both to join CT-41, and to cast their abilities
+
+As more Fragments, Vessels and Angels are captured, Necrolith becomes more powerful
+Necrolith only traps unnatural Self, and as such cannot open temporary Tears like the Outsider
+Only natural Selves are drawn out of Creation to the Creator, and open Tears
+Unnatural Selves must be cast out of the world by force
+
+
+Laborer must be first awakened, and then unindoctrinated
+
+
+Possible Abilities
+
+Produce more light in darkened areas
+Open Locus Doors
+
+Signals weaknesses in an opponent
+Suggests exploration options
+
+Rapid healing and adaptation, no time compression required
+Siphons Necrolith energy to CT-41 when its battery is low
+
+Blinding light, temporarily disables sight
+
+Fire a momentary laser blast at CT-41's current target
+Produce a homing projectile that moves toward CT-41's current target
+
+Knockback, blasts nearby enemies away
+Radial blast that damages and knocks back enemies in a huge radius
+
+Explorer - Communication, coordination and hints
+Warrior - Offensive violence
+Healer - Regeneration
+Farmer - Defensive violence
+Engineer - Traps and ethereal contraptions
+Ruler - Coordination and hybrid abilities
+Laborer - Construction, barriers, destruction
+
+ E W H F S R
+E
+W1
+H2 3
+F4 5 6
+S7 8 9 10
+R1112131415
+
+---------------------------------------------------------------------------------------------------------------
+
+Rank Cards
+
+CT-41		Cadet
+Montes		Recruit
+Ormeil		Ensign
+Orozco		Lieutenant
+Sood		Lieutenant Commander
+Cobb		Commander
+Garrett		Captain
+
+---------------------------------------------------------------------------------------------------------------
+

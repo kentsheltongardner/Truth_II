@@ -1,0 +1,114 @@
+Necrolith Gifts
+
+|h2 Operation
+
+|p When [CT-41:nav/pdrs] first speaks to the Outsider, it gains a Necrolith energy bar. When CT-41 meets a new Companion while exploring Lumen 2, it gains the ability to open new Locus Doors, and a new Necrolith Gift. When one of the Companions uses its Gift, the Necrolith's energy bar is drained. As CT-41 captures more of the Singularity within the Necrolith, the size and refill rate of the Necrolith energy bar increase. CT-41 can toggle Necrolith Gifts on or off. When a Gift is toggled off, the corresponding Companion's Seed enters CT-41's body via its forward access port. Companion Seeds glow more brightly when using their Gifts. As Companions move, light filters out of them opposite the direction of motion. All active Gifts have a cooldown period after activation. As Companions get practice using their Gifts, they become stronger. When a Companion is not ready to use a Gift, its Seed dims. When it is ready to use a gift, its Seed glows softly. When it is using the Gift, it shines brightly.*This is a note
+
+|h2 Basic Gifts
+
+|h3 Builder (Laborer) - Foundation
+
+|p The Builder glows with a mottled grey-brown light, hovers beneath CT-41's wheels, and grants the Gift of Foundation. When CT-41 attempts to jump while airborne, Foundation manifests as a bright, greyish brown platform beneath CT-41's wheels. CT-41 is able to jump off of the Foundation, which quickly ripples out of existence. Support uses a large amount of Necrolith energy, equal to half of the maximum energy bar.
+
+|p As the Builder gains experience using the Gift of Foundation, the cooldown period of the Gift lowers.
+
+|h3 Deliverer (Healer) - Vitality*Margin note surprise
+
+
+|p The Deliverer glows with a cyan light, hovers slowly around CT-41's midsection, and grants the Gift of Vitality. Vitality slowly drains the Necrolith's energy while increasing the Nanite Colony's repair speed. With the Deliverer helping, repairs are perceptible without compressing time. Vitality is visible as an occasional cyan shimmer across CT-41's armor.
+
+|p As the Deliverer gains experience using the Gift of Vitality, the repair speed of the Gift increases.
+
+|h3 Tribesman (Warrior) - Violence
+
+|p The Tribesman glows with a red light, hovers far from CT-41, and grants the Gift of Violence. With Violence active, the Tribesman will launch his Seed at nearby enemies, dealing damage and knockback.
+
+|p As the Deliverer gains experience using the Gift of Violence, the speed of the Gift increases.
+
+|h3 Linguist (Ruler) - Exchange
+
+|p The Linguist glows with a magenta light, hovers near CT-41's head, and grants the Gift of Exchange. Exchange manifests as a magenta light emanating from between CT-41's paneling. When Exchange is active, demands upon the Battery that cannot be met will be met by the Necrolith. Exchange itself does not consume Necrolith energy.
+
+|p As the Deliverer gains experience using the Gift of Exchange, the conversion efficiency of the Gift improves.
+
+|h3 Outsider (Angel) - Illumination
+
+|p The Outsider glows with a white light, hovers above and in front of CT-41, and grants the Gift of Illumination. Illumination is visible as a blazing torch that increases in brightness based on the available ambient lighting. Illumination deals slight damage to enemies based on their distance from the Outsider, and uses a negligible amount of Necrolith energy.
+
+|p As the Deliverer gains experience using the Gift of Illumination, the ambient damage dealt by the Gift increases.
+
+|h3 Pilot (Explorer) - Haste
+
+|p The Pilot glows with a yellow light, hovers jerkily weaving between CT-41's legs, and grants the Gift of Haste. Haste adds a small impulse to all of CT-41's movements, draining Necrolith energy proportional to the magnitude of the impulse. Haste is visible as a fading yellow after image behind CT-41.
+
+|p As the Deliverer gains experience using the Gift of Haste, the impulse imparted by the Gift increases.
+
+|h3 Rascal (Pet) - Loyalty
+
+|p Rascal is a small Companion that glows with an orange light, and tags along behind the Stargazer. Rascal cannot be activated independently of the Stargazer.
+
+|h3 Seer (Farmer) - Defiance
+
+|p The Seer glows with a green light, hovers just behind CT-41, and grants the Gift of Defiance. Defiance generates out a directed green shockwave whenever an enemy touches CT-41. This shockwave damages and pushes the enemy away from CT-41.
+
+|p As the Deliverer gains experience using the Gift of Defiance, the cooldown period of the Gift decreases toward zero.
+				
+|h3 Stargazer (Engineer) - Pursuit
+
+|p The Stargazer glows with a blue light, hovers above and behind CT-41, and grants the Gift of Pursuit. Pursuit manifests as a small burst of energy that emanates from the Stargazer's Seed and rapidly homes toward a target. With Pursuit active, the Stargazer will occasionally attack the closest targetable enemy.
+
+|p As the Deliverer gains experience using the Gift of Pursuit, the tracking speed and damage of the Gift increase.
+
+|h2 Paired Gifts
+
+|h3 Invader and Pilot (Adventurers) - Fury
+
+|p If enemies begin to swarm CT-41, the Invader and the Pilot will tether, draw together, and begin to orbit each other. They grant the Gift of Fury, glowing brightly as they move toward and smash into enemies, dealing high damage and knocking enemies away from CT-41.
+
+|p As the Invader and the Pilot gain experience using the Gift of Fury, the speed of the Gift increases.
+
+|h3 Deliverer and Seer (Nurturers) - Life
+
+|p If CT-41 takes catastrophic damage while both the Deliverer and Seer are active, a tether will connect the two Companions as each begins to glow. The Gift of Life, a teal protective shield, comes over CT-41, rendering it immune to all damage for a short duration.
+
+|p As the Deliverer and the Seer gain experience using the Gift of Fury, the duration of the Gift increases.
+
+|h3 Linguist and Stargazer (Philosophers) - Judgment
+
+|p If a powerful enemy becomes targetable, and CT-41 has sufficient energy, a tether connects the Linguist and the Stargazer, and the Stargazer begins to glow brightly. After a brief charging period, the Stargazer releases the Gift of Judgment, and fires a powerful projectile at the enemy.
+
+|p As the Linguist and the Stargazer gain experience using the Gift of Fury, the damage of the Gift increases.
+
+|h2 Group Gifts
+
+|h3 All Companions (Kindred) - Fusion
+
+|p If CT-41's Necrolith energy is high enough, and all Companions are activated, they may collectively choose to grant the Gift of Enlightenment. During Enlightenment, all other Companions gather and circle around the Outsider, who positions himself over CT-41, and thin tethers of color gradients connect each Companion to all others. A platform appears below CT-41, holding it in place if it is airborne. The Companions begin to spin rapidly, a protective shield forms around CT-41, and the Companions draw closer until they touch. The screen turns blindingly white, as all targetable enemies are struck by powerful white beams that blast them backward. Every targetable enemy in the current environment takes high damage, and a huge portion of both Necrolith and Battery energy are expended.
+
+|p As all the Companions gain experience using the Gift of Fusion, the damage, duration and speed of the Gift increase.
+
+|i
+
+Best so far:
+
+Movement
+	Haste 		- Slightly boosts all movement
+	Foundation 	- Allows jumping in air
+Support
+	Healing 	- Greatly accelerates Nanite Colony repairs
+	Exchange 	- Pools Necrolith and Battery energy
+Sensory
+	Revelation	- Illuminates a large area
+Offensive
+	Fury		- Slams into enemies
+	Precision	- Fires a laser at nearby enemies
+Defensive
+	Defiance	- Knocks back enemies that touch CT-41
+
+Possibilities:
+
+Persuasion/Dominion - Controls enemies (bad, AI modifying)
+Deception 			- Prevents organic enemies from seeing CT-41 (bad, boring, AI modifying)
+Banishment			- Temporarily removes an object from existence (bad, leads to overlapping objects)
+
+|i OK

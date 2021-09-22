@@ -1,0 +1,429 @@
+Encyclopedia
+
+|i Respirator = atmospheric control facility
+Chemical Disposal Area -> Chemical Management site
+Crown of Thorns = Crystal King
+Destroyer wreck is no more - we see bits and pieces of destroyer technology, their terraforming, and then their home
+Resin, used by natives to develop burgeoning technology
+Domiciles will be dome shaped
+Hall of Reckoning?
+Healing Pools -> Curing Baths
+Life Support Facility -> Preservation Units
+Enumerate the magma chambers as discovered and cataloged by the Pilot and CT-41
+Make sure to add all the companions and other natives
+Mineral separation plant -> extractor
+Mounds?
+Negotiator? Linguist?
+monument, effigy, cathedral
+ancestral halls -> shrines
+Serpent?
+Simulacrum?
+Treasury in ruler's locus, new ideas for Warriors
+Truth - a realized potential
+war of extinction -> last war
+
+|h2#a A
+
+|h4 [Abelino Montes:enc/abelino_montes]
+|h4 [Abomination:enc/abomination]
+|h4 [Abyssal Trench:enc/sea#abyssal_trench]
+|h4 [Accelerator:enc/hearth#accelerator]
+|h4 [Adventurer:enc/abomination]
+|h4 [Age:enc/abomination]
+|h4 [Agent:enc/abomination]
+|h4 [Agricultural Wing:enc/abomination]
+|h4 [Alo Nutre:enc/abomination]
+|h4 [Altar:enc/abomination]
+|h4 [Ancestral Lineage:enc/abomination]
+|h4 [Ancient:enc/abomination]
+|h4 [Angel:enc/abomination]
+|h4 [Anomaly:enc/abomination]
+|h4 [Architect:enc/abomination]
+|h4 [Arena:enc/abomination]
+|h4 [Artificial Womb:enc/abomination]
+|h4 [Assembly Hall:enc/abomination]
+|h4 [Azeselon:enc/abomination]
+
+|h2#b B
+
+|h4 [Badlands:enc/abomination]
+|h4 [Barracks:enc/abomination]
+|h4 [Basin:enc/abomination]
+|h4 [Beast:enc/abomination]
+|h4 [Beasthome:enc/abomination]
+|h4 [Behavioral Control Unit:enc/abomination]
+|h4 [Blackout:enc/abomination]
+|h4 [Boiling Lake:enc/abomination]
+|h4 [Broken Path:enc/abomination]
+
+|h2#c C
+
+|h4 [Caldera:enc/abomination]
+|h4 [Caretaker:enc/abomination]
+|h4 [Catacombs:enc/abomination]
+|h4 [Cathedral:enc/abomination]
+|h4 [Cave-in:enc/abomination]
+|h4 [Caverns:enc/abomination]
+|h4 [Cave Sickness:enc/abomination]
+|h4 [Chain of Memory:enc/abomination]
+|h4 [Challenger:enc/abomination]
+|h4 [Chayot ha Kodesh:enc/abomination]
+|h4 [Chemical Management Site:enc/abomination]
+|h4 [Child:enc/abomination]
+|h4 [CICI:enc/abomination]
+|h4 [Clifftop:enc/abomination]
+|h4 [Cobb's Mutiny:enc/abomination]
+|h4 [Cold Storage:enc/abomination]
+|h4 [Common Ancestor:enc/abomination]
+|h4 [Commons:enc/abomination]
+|h4 [Communications Bunker:enc/abomination]
+|h4 [Compacting Tube:enc/abomination]
+|h4 [Companion:enc/abomination]
+|h4 [Condensation Vault:enc/abomination]
+|h4 [Connection:enc/abomination]
+|h4 [Control Center:enc/abomination]
+|h4 [Cooperative:enc/abomination]
+|h4 [Correction Chambers:enc/abomination]
+|h4 [Covenant:enc/abomination]
+|h4 [Crags:enc/abomination]
+|h4 [Creation:enc/abomination]
+|h4 [Creator:enc/abomination]
+|h4 [Crown of Thorns:enc/abomination]
+|h4 [Cryostasis:enc/abomination]
+|h4 [Curing Baths:enc/abomination]
+
+|h2#d D
+
+|h4 [Dark Room:enc/abomination]
+|h4 [Data Center:enc/abomination]
+|h4 [Deep:enc/abomination]
+|h4 [Deep Access Elevator:enc/abomination]
+|h4 [Deep Root:enc/abomination]
+|h4 [Desolation:enc/abomination]
+|h4 [Destroyer:enc/abomination]
+|h4 [Destruction:enc/abomination]
+|h4 [Diggings:enc/abomination]
+|h4 [Directive:enc/abomination]
+|h4 [Division:enc/abomination]
+|h4 [Domain:enc/abomination]
+|h4 [Domicile:enc/abomination]
+|h4 [Doom:enc/abomination]
+|h4 [Dormancy:enc/abomination]
+|h4 [Draconid:enc/abomination]
+
+|h2#e E
+
+|h4 [E.A.G.I:enc/abomination]
+|h4 [Emptiness:enc/abomination]
+|h4 [Enclave:enc/abomination]
+|h4 [Executor:enc/abomination]
+|h4 [Existential Dilemmata:enc/abomination]
+|h4 [Expeditionary Contract:enc/abomination]
+|h4 [Explorer:enc/abomination]
+|h4 [Extractor:enc/abomination]
+
+|h2#f F
+
+|h4 [Factory:enc/abomination]
+|h4 [Faithful:enc/abomination]
+|h4 [Family:enc/abomination]
+|h4 [Farmer:enc/abomination]
+|h4 [Farmland:enc/abomination]
+|h4 [Farsight Colony:enc/abomination]
+|h4 [Farsight Expedition:enc/abomination]
+|h4 [Ferry:enc/abomination]
+|h4 [Fesh'togar:enc/abomination]
+|h4 [Fire Caves:enc/abomination]
+|h4 [Flesh Vats:enc/abomination]
+|h4 [Flood:enc/abomination]
+|h4 [Flow:enc/abomination]
+|h4 [Flow Silos:enc/abomination]
+|h4 [Flow Chambers:enc/abomination]
+|h4 [Fly Traps:enc/abomination]
+|h4 [Foothills:enc/abomination]
+|h4 [Fortuna Valley:enc/abomination]
+|h4 [Fossil Site:enc/abomination]
+|h4 [Fragment:enc/abomination]
+|h4 [Frontier:enc/abomination]
+|h4 [Fuel Dump:enc/abomination]
+
+|h2#g G
+
+|h4 [Garage:enc/abomination]
+|h4 [Gateway:enc/abomination]
+|h4 [Gentle Death:enc/abomination]
+|h4 [Geothermal Power Station:enc/abomination]
+|h4 [Glowstone:enc/abomination]
+|h4 [Great Council:enc/abomination]
+|h4 [Greater Fragment:enc/abomination]
+|h4 [Guard:enc/abomination]
+|h4 [Guardhouse:enc/abomination]
+|h4 [Gyoki Satellite:enc/abomination]
+
+|h2#h H
+
+|h4 [Habitations:enc/abomination]
+|h4 [Hall of Relics:enc/abomination]
+|h4 [Hangar:enc/abomination]
+|h4 [Healer:enc/abomination]
+|h4 [Hearth:enc/abomination]
+|h4 [Hermit's Cave:enc/abomination]
+|h4 [Hibernation Rot:enc/abomination]
+|h4 [High Lineage:enc/abomination]
+|h4 [Holding Cells:enc/abomination]
+|h4 [Hollowing:enc/abomination]
+|h4 [Holy City:enc/abomination]
+|h4 [Holy of Holies:enc/abomination]
+
+|h2#i I
+
+|h4 [Incinerator:enc/abomination]
+|h4 [Ines Orozco:enc/abomination]
+|h4 [Intelligence:enc/abomination]
+|h4 [Interstellar Defense Fleet:enc/abomination]
+|h4 [Interstellar Propulsion System:enc/abomination]
+|h4 [Ironworks:enc/abomination]
+
+|h2#j J
+
+|h4 [Jannah Colony:enc/abomination]
+|h4 [Jannah Massacre:enc/abomination]
+|h4 [Jessica Arai:enc/abomination]
+|h4 [Jusuf Manigault:enc/abomination]
+
+|h2#k K
+
+|h4 [Karl Westfahl:enc/abomination]
+|h4 [Kiaan Sood:enc/abomination]
+|h4 [Kindred:enc/abomination]
+|h4 [Kozlov's Lab:enc/abomination]
+
+|h2#l L
+
+|h4 [Laboratory:enc/abomination]
+|h4 [Laborer:enc/abomination]
+|h4 [Labor Society:enc/abomination]
+|h4 [Laccolith:enc/abomination]
+|h4 [La Diosa Shipyard:enc/abomination]
+|h4 [Large Interstellar Surveyor Telescope:enc/abomination]
+|h4 [Last War:enc/abomination]
+|h4 [Law:enc/abomination]
+|h4 [Lesser Fragment:enc/abomination]
+|h4 [Life:enc/abomination]
+|h4 [Preservation Units:enc/abomination]
+|h4 [Lineage:enc/abomination]
+|h4 [Liquid Waste Tanks:enc/abomination]
+|h4 [Listening Post:enc/abomination]
+|h4 [Locus:enc/abomination]
+|h4 [Locus Door:enc/abomination]
+|h4 [Louis Zhang:enc/abomination]
+|h4 [Lower Levels:enc/abomination]
+|h4 [Lower Root Fields:enc/abomination]
+|h4 [Lower Ruins:enc/abomination]
+|h4 [Lumen:enc/abomination]
+|h4 [Lumen 1:enc/abomination]
+|h4 [Lumen 2:enc/abomination]
+|h4 [Lumen 3:enc/abomination]
+|h4 [Lumen 4:enc/abomination]
+|h4 [Lumene Native:enc/abomination]
+|h4 [Lumene Timekeeping:enc/abomination]
+|h4 [Luminary:enc/abomination]
+
+|h2#m M
+
+|h4 [Machine Shop:enc/abomination]
+|h4 [Magma Chambers:enc/abomination]
+|h4 [Magma Worm:enc/abomination]
+|h4 [Marco Badawi:enc/abomination]
+|h4 [Marine:enc/abomination]
+|h4 [Material:enc/abomination]
+|h4 [Member:enc/abomination]
+|h4 [Menagerie:enc/abomination]
+|h4 [Migration:enc/abomination]
+|h4 [Mine:enc/abomination]
+|h4 [Molecular Assembler:enc/abomination]
+|h4 [Morgue:enc/abomination]
+|h4 [Mountainside:enc/abomination]
+|h4 [Mud Pits:enc/abomination]
+
+|h2#n N
+
+|h4 [Necrolith:enc/abomination]
+|h4 [Network:enc/abomination]
+|h4 [Neural Augment:enc/abomination]
+|h4 [Nicholas Ormeil:enc/abomination]
+|h4 [Nox:enc/abomination]
+|h4 [Nucleus:enc/abomination]
+|h4 [Nursery:enc/abomination]
+|h4 [Nurturer:enc/abomination]
+
+|h2#o O
+
+|h4 [Obstruction:enc/abomination]
+|h4 [Openings:enc/abomination]
+|h4 [Otis Cobb:enc/abomination]
+|h4 [Old God:enc/abomination]
+|h4 [Openings:enc/abomination]
+|h4 [Oracle:enc/abomination]
+|h4 [Origin:enc/abomination]
+|h4 [Orion Stellar Harvester:enc/abomination]
+|h4 [Outlaw:enc/abomination]
+|h4 [Outside:enc/abomination]
+|h4 [Outsider:enc/abomination]
+|h4 [Overburden Mound:enc/abomination]
+|h4 [Overgrowth:enc/abomination]
+|h4 [Override Order:enc/abomination]
+
+|h2#p P
+
+|h4 [Paralus:enc/abomination]
+|h4 [Peak:enc/abomination]
+|h4 [Perimeter Fence:enc/abomination]
+|h4 [Personal Data Recorder:enc/abomination]
+|h4 [Pest Control:enc/abomination]
+|h4 [Philosopher:enc/abomination]
+|h4 [Photovoltaics Farm:enc/abomination]
+|h4 [Pit:enc/abomination]
+|h4 [Power Distribution Center:enc/abomination]
+|h4 [Pre-Tribal Extinction:enc/abomination]
+|h4 [Presence:enc/abomination]
+|h4 [Prime Altar:enc/abomination]
+|h4 [Primordion:enc/abomination]
+|h4 [Probe:enc/abomination]
+|h4 [Progenitor:enc/abomination]
+|h4 [Prospecting Camp:enc/abomination]
+|h4 [Proto-Native:enc/abomination]
+|h4 [Prototype Chamber:enc/abomination]
+|h4 [Pulp:enc/abomination]
+|h4 [Pumping Station:enc/abomination]
+|h4 [Punishment:enc/abomination]
+|h4 [Puppet:enc/abomination]
+|h4 [Purification:enc/abomination]
+
+|h2#q Q
+
+|h4 [Quarry:enc/abomination]
+
+|h2#r R
+
+|h4 [Rabinowitz Process:enc/abomination]
+|h4 [Ramah al'amal:enc/abomination]
+|h4 [Rank Card:enc/abomination]
+|h4 [Razor Caverns:enc/abomination]
+|h4 [Reactor:enc/abomination]
+|h4 [Realm:enc/abomination]
+|h4 [Rebel:enc/abomination]
+|h4 [Recycling Plant:enc/abomination]
+|h4 [Repair Shop:enc/abomination]
+|h4 [Refinery:enc/abomination]
+|h4 [Refuge:enc/abomination]
+|h4 [Regression Center:enc/abomination]
+|h4 [Remnant:enc/abomination]
+|h4 [Renewal:enc/abomination]
+|h4 [Repository:enc/abomination]
+|h4 [Reservoir:enc/abomination]
+|h4 [Resin:enc/abomination]
+|h4 [Right of Continuation:enc/abomination]
+|h4 [Rogue:enc/abomination]
+|h4 [Ruler:enc/abomination]
+
+|h2#s S
+
+|h4 [Sacrifice:enc/abomination]
+|h4 [Safe:enc/abomination]
+|h4 [Sanctuary:enc/abomination]
+|h4 [Sanctum:enc/abomination]
+|h4 [Sands:enc/abomination]
+|h4 [Sea:enc/sea]
+|h4 [Second Temple:enc/abomination]
+|h4 [Secret Thought:enc/abomination]
+|h4 [Secure Wing:enc/abomination]
+|h4 [Seed:enc/abomination]
+|h4 [Self:enc/abomination]
+|h4 [Sentinel:enc/abomination]
+|h4 [Servant:enc/abomination]
+|h4 [Servants' Quarters:enc/abomination]
+|h4 [Settlements:enc/abomination]
+|h4 [Shallows:enc/abomination]
+|h4 [Shame:enc/abomination]
+|h4 [Shenzen Protocol:enc/abomination]
+|h4 [Shrines:enc/abomination]
+|h4 [Simpleton:enc/abomination]
+|h4 [Singularity:enc/abomination]
+|h4 [Slaughter:enc/abomination]
+|h4 [Slopes:enc/abomination]
+|h4 [Solar Navy:enc/abomination]
+|h4 [Specimen Storage:enc/abomination]
+|h4 [Stabilization Chamber:enc/abomination]
+|h4 [Standard Lumene:enc/abomination]
+|h4 [Stargazer:enc/abomination]
+|h4 [Stellar Harvester:enc/abomination]
+|h4 [Stone Giant:enc/abomination]
+|h4 [Subjugation:enc/abomination]
+|h4 [Surface Access Elevator:enc/abomination]
+|h4 [Surgical Complex:enc/abomination]
+|h4 [Synchronization:enc/abomination]
+
+|h2#t T
+
+|h4 [Tear:enc/abomination]
+|h4 [Temple:enc/abomination]
+|h4 [Temple Guard:enc/abomination]
+|h4 [Terminal:enc/abomination]
+|h4 [The Real:enc/abomination]
+|h4 [Thosmodeme:enc/abomination]
+|h4 [Throneroom:enc/abomination]
+|h4 [Transcendence:enc/abomination]
+|h4 [Treasury:enc/abomination]
+|h4 [Tribal Wars:enc/abomination]
+|h4 [Tribute Chamber:enc/abomination]
+|h4 [Truth:enc/abomination]
+|h4 [Truth I:enc/abomination]
+|h4 [Truth II:enc/abomination]
+|h4 [Truth III:enc/abomination]
+|h4 [Tunnel:enc/abomination]
+|h4 [Turn:enc/abomination]
+
+|h2#u U
+
+|h4 [Underground:enc/abomination]
+|h4 [Underworld:enc/abomination]
+|h4 [Unification:enc/abomination]
+|h4 [United Colonial Administration:enc/abomination]
+|h4 [Universal Standard Time:enc/abomination]
+|h4 [Upper Levels:enc/abomination]
+|h4 [Upper Root Fields:enc/abomination]
+|h4 [Upper Ruins:enc/abomination]
+|h4 [Uprising:enc/abomination]
+|h4 [Uraninite Vein:enc/abomination]
+|h4 [Uruthmu:enc/abomination]
+
+|h2#v V
+
+|h4 [Vadim Kozlov:enc/abomination]
+|h4 [Vault:enc/abomination]
+|h4 [Vessel:enc/abomination]
+|h4 [Vessel of Filth:enc/abomination]
+|h4 [Volcano:enc/abomination]
+|h4 [Voronash:enc/abomination]
+
+|h2#w W
+
+|h4 [Warrior:enc/abomination]
+|h4 [Waste Chambers:enc/abomination]
+|h4 [Watcher:enc/abomination]
+|h4 [Well of Offering:enc/abomination]
+|h4 [Whispering Caves:enc/abomination]
+|h4 [Wild:enc/abomination]
+|h4 [William Garrett:enc/abomination]
+|h4 [Willing:enc/abomination]
+|h4 [Womb:enc/abomination]
+|h4 [Worshipper:enc/abomination]
+
+|h2#x X
+
+|h2#y Y
+
+|h4 [Yamato-Ruach Robotics Corporation:enc/abomination]
+
+|h2#z Z
