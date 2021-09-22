@@ -144,7 +144,7 @@ body {
 }
 .content-box > * {
     display: block;
-    padding: 5px 20px;
+    padding: 0px 20px;
 }
 .content-box > *:not(aside) {
     flex-basis: 80%;
@@ -164,7 +164,7 @@ body {
     font-size: 16px;
     line-height: 25px;
     text-align: justify;
-    padding-bottom: 13px;
+    padding-bottom: 15px;
 }
 .content-box > h2 {
     padding-top: 12px;
@@ -173,16 +173,19 @@ body {
     text-decoration-thickness: 2px;
     font-size: 36px;
     font-weight: normal;
+    padding-bottom: 25px;
 }
 .content-box > h3 {
     padding-top: 12px;
     font-size: 25px;
     font-weight: normal;
+    padding-bottom: 25px;
 }
 .content-box > h4 {
     padding-top: 5px;
     font-size: 18px;
     font-weight: normal;
+    padding-bottom: 15px;
 }
 
 
