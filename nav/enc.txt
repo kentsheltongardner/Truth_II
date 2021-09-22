@@ -1,7 +1,8 @@
 Encyclopedia
 
-|i Respirator = atmospheric control facility
-Chemical Disposal Area -> Chemical Management site
+|i
+Respirator = atmospheric control facility
+Chemical Disposal Area -> Chemical Management site?
 Crown of Thorns = Crystal King
 Destroyer wreck is no more - we see bits and pieces of destroyer technology, their terraforming, and then their home
 Resin, used by natives to develop burgeoning technology
@@ -43,6 +44,11 @@ safe(storage) removed
 specimen storage removed, where to put? paralus, hearth, refuge?
 how might the polymath help ct-41, even without joining him? destroyer info? coordination? teaching group techniques?
 vault -> treasury vault may be reused
+zoology?
+
+
+purification
+destroyer
 
 
 |h2#a A
@@ -93,7 +99,7 @@ vault -> treasury vault may be reused
 |h4 [Challenger:enc/challenger]
 |h4 [Chayot ha Kodesh:enc/chayot_ha_kodesh]
 |h4 [Chemical Disposal Area:enc/chemical_disposal_area]
-|h4 [Child:enc/child]
+|h4 [Child:enc/purification#child]
 |h4 [CICI:enc/cici]
 |h4 [Clifftop:enc/clifftop]
 |h4 [Cobb's Mutiny:enc/cobbs_mutiny]
@@ -314,6 +320,7 @@ vault -> treasury vault may be reused
 |h4 [Philosopher:enc/lineage#philosopher]
 |h4 [Photovoltaics Array:enc/photovoltaics_array]
 |h4 [Pit:enc/lower_ruins#pit]
+|h4 [Polymath:enc/polymath]
 |h4 [Power Plant:enc/hearth#power_plant]
 |h4 [Pre-Tribal Extinction:enc/pre_tribal_extinction]
 |h4 [Presence:enc/thosmodeme#presence]
@@ -367,7 +374,7 @@ vault -> treasury vault may be reused
 |h4 [Seed:enc/seed]
 |h4 [Self:enc/self]
 |h4 [Sentinel:enc/sentinel]
-|h4 [Servant:enc/servant]
+|h4 [Servant:enc/purification#servant]
 |h4 [Servants' Quarters:enc/holy_city#servants_quarters]
 |h4 [Settlements:enc/settlements]
 |h4 [Shallows:enc/division#shallows]
@@ -450,5 +457,3 @@ vault -> treasury vault may be reused
 |h4 [Yamato-Ruach Robotics Corporation:enc/yrrc]
 
 |h2#z Z
-
-|h4 [Zoological Research:enc/yrrc]
