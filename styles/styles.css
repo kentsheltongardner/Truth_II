@@ -28,7 +28,6 @@
     background-color: var(--bg-scroll);
     background-clip: content-box;
     border-radius: var(--corner);
-    /* background: linear-gradient(var(--bg-content), var(--bg-notes)); */
 }
 ::-webkit-scrollbar-thumb {
     background-color: var(--color-scroll);
@@ -114,19 +113,13 @@ body {
 }
 #text-backing {
     background-color: var(--bg-content);
-    /* background: radial-gradient(#e66465, #9198e5); */
-    /* background-color: rgba(28, 23, 56, 0.788); */
-    /* background: radial-gradient(rgba(32, 17, 58, 0.212), rgba(28, 23, 56, 0.788)); */
     flex-basis: 80%;
     border-radius: var(--corner);
-    /* background: linear-gradient(var(--bg-content), var(--bg-notes)); */
 }
 #note-backing {
     background-color: var(--bg-notes);
-    /* background-color: rgba(32, 17, 58, 0.212); */
     flex: 1;
     border-radius: var(--corner);
-    /* background: linear-gradient(var(--bg-notes), transparent); */
 }
 
 
