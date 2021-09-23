@@ -1,2 +1,0 @@
-(<a href=.*?>|</a>)
-Removes all hyperlinks from selection

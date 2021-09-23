@@ -7,191 +7,191 @@ Margins for tricks and ideas outside normal gamepath
 curing baths at the border of commons and refuge
 
 
-|h2 And The Child Was Young
-|h4 Jessica assembles CT-41, and Captain Garrett gives it a mission
+|2 And The Child Was Young
+|4 Jessica assembles CT-41, and Captain Garrett gives it a mission
 
-|h3 1. Thy Hands Have Made Me
+|3 1. Thy Hands Have Made Me
 
 |p Jessica Arai assembles and activates CT-41, and downloads language and general knowledge packs to its internal storage. Jessica administers a calibration challenge to CT-41. Jessica encourages CT-41 to talk to the Farsight Expedition's research leads aboard the Argo. CT-41 speaks with Ines Orozco, Nicholas Ormeil, and Vadim Kozlov. The research leads reveal important information about Lumen 2 and the Farsight Expedition to CT-41. At Jessica's urging, each crew member gives CT-41 a birthday present.
 
-|h3  2. Let Them Have Dominion
+|3  2. Let Them Have Dominion
 
 |p CT-41 moves to the Command Deck, where it talks to Kiaan Sood, Karl Westfahl, and Commander William Garrett. Garrett gives CT-41 a Cadet's Rank Card, and orders it to clear out native plant and animal life from the eastern edge of the Fortuna Valley. With the Cadet's Rank Card, CT-41 moves to the Bulk Storage Deck and speaks with Otis Cobb. Cobb gives CT-41 its first weapon, the Thermal Laser. CT-41 exits the Argo via its eastern loading ramp, and kills or scatters all native Lumene lifeforms at the Valley's edge.
 
-|h3 3. Many Were Made Sinners
+|3 3. Many Were Made Sinners
 
 |p While CT-41 completes its first mission, Karl Westfahl scans through the communications backlog for information related to Caretaker automata. He relays a deactivate and disassemble order from the United Colonial Administration to Commander Garrett. Garrett orders Jessica Arai to deactivate and disassemble CT-41, and reset its carbon lattice brain. Jessica disobeys, instead placing CT-41 in sleep mode.
 
 
 
-|h2 I Will Seek That Which Was Lost
-|h4 CT-41 awakens, and learns the Farsight colonists are missing
+|2 I Will Seek That Which Was Lost
+|4 CT-41 awakens, and learns the Farsight colonists are missing
 
-|h3 4. Arise, Walk Through The Land
+|3 4. Arise, Walk Through The Land
 
 |p After #NUMBER years, CICI brings CT-41 out of sleep mode with an emergency summons. The United Colonial Administration has not received a status update from the Farsight Colony since #DATE, and Expedition Coordinator Alexandros Myron orders that communication resume. CICI tasks CT-41 with discovering the fate of the other Farsight Colonists, and gives it Colony Map data. CICI will send Bulk Data Transfers to Earth, containing CT-41's sensory logs, PDR data, and item acquisition data.
 
-|h3 5. A Land Whose Stones Are Iron
+|3 5. A Land Whose Stones Are Iron
 
 |p CT-41 begins to freely explore the Farsight Colony and the eastern edge of the Fortuna Valley. It enters the Mine, and finds the Sonic Auger in the Upper Levels. It uses the Sonic Auger to dig into a patch of loose soil near the base of the Mine, and finds the body, PDR, and Rank Card of Abelino Montes. With the Recruit's Rank Card, CT-41 is able to enter the Ironworks and the Machine Shop, where it finds the Iron Stock. The Nanite Colony makes contact with CT-41, and adapts the Iron Stock into the Iron Plating.
 
-|h3 6. Into The Caves Of The Earth
+|3 6. Into The Caves Of The Earth
 |p With the Recruit's Rank Card, CT-41 passes through the Guardhouse and explores the western half of the Fortuna Valley before entering the Caverns. Using the Sonic Auger, CT-41 is able to navigate to deep chambers, where it finds evidence of Nicholas Ormeil's exploration and study. In a darker portion of the Caverns CT-41 finds Ormeil's Flashlight, PDR, and skull, where he left them after being taken by a Beast. With the Flashlight equipped, CT-41 moves toward and enters the Beast's Den, and defeats it. In the Beast's trophy pit, CT-41 finds Ormeil's body and Rank Card.
 
-|h3 7. Desolation Shall Come Upon Thee
+|3 7. Desolation Shall Come Upon Thee
 |p CT-41 leaves the Beast's Den and enters the Desolation, where it sees the first twisted and melted hints of Lumene civilization. CT-41 discovers and adapts the Energy Shroud, and clears its first Altar. Back at the Colony, CT-41 uses Nicholas Ormeil's Ensign's Rank Card to enter the Reactor. There it finds the Ion Matrix, and waits for the Reactor to dump spent fuel into the Waste Dump.
 
 
 
-|h2 A Stranger In A Strange Land
-|h4 CT-41 explores the Underground and the unpowered Native Realm
+|2 A Stranger In A Strange Land
+|4 CT-41 explores the Underground and the unpowered Native Realm
 
-|h3 8. Deep And Secret Things
+|3 8. Deep And Secret Things
 |p CT-41 falls through a deep borehole into the Waste Dump, and begins to explore the vastness of Lumen 2's Underground. The first caverns it explores are teeming with Lumene life, adapted to sap energy from warm nuclear waste. CT-41 destroys a damaged Watcher and takes its Motion Sensor. CT-41 moves down into Menagerie and the Hunting Grounds, where it rapidly optimizes its Thermal Laser. CT-41 navigates through No Man's Land, where Adventures fought against a coalition of Nurturers and Philosophers during the Tribal Wars.
 
-|h3 9. They Shall Also Make Gardens
+|3 9. They Shall Also Make Gardens
 |p After passing through the pits and snares of No Man's Land, CT-41 enters the Farmlands. Primitive Lumene lifeforms have overrun the fertile Locus. CT-41 explores the Upper Root Fields, and defeats the Overgrowth that has formed over the Altar at their eastern end. CT-41 finds the Volt Gun in a maintenance closet, and uses it to move up into the Distribution Center. CT-41 navigates through the Distribution Center using the Volt Gun, eventually emerging onto the Highway.
 
-|h3 10. The Light Shineth In Darkness
+|3 10. The Light Shineth In Darkness
 |p CT-41 heads west along the Highway, and moves down into the Power Plant. There CT-41 encounters many living Vermin, which it dislodges from the Plant's wiring. CT-41 finds and equips the Fusion Core, and destroys the Vermin Supreme. With the enormous parasite dead, electrical power returns to Native facilities throughout the Realm.
 
-|h3 11. Your Altars Shall Be Desolate
+|3 11. Your Altars Shall Be Desolate
 |p CT-41 finds an Altar near the Geothermal Power Station. Using this Altar, CT-41 is able to teleport to any Altar it has cleared so far, and to an Altar in the Diggings. CT-41 teleports to the Diggings's Altar, and enters the Farsight Colony. After CT-41 leaves the Diggings, CICI cuts power to its door, so that it remains open. The dying Outsider and Vadim Kozlov enter Truth II.
 
 
 
-|h2 The Mysteries Of The Kingdom Of God
-|h4 CT-41 discovers the Farsight colonists in the Sanctuary
+|2 The Mysteries Of The Kingdom Of God
+|4 CT-41 discovers the Farsight colonists in the Sanctuary
 
-|h3 12. In The Midst Of The Seas
+|3 12. In The Midst Of The Seas
 |p With power restored to the Underground, CT-41 enters the Assembly Hall and finds the Warrior's Shield, but is unable to leap over the wreckage of battle to continue west. CT-41 then moves up and east, passing through the Native door leading to the Sea. By manipulating time properly, CT-41 moves across the Sea as the waterline rises and falls.
 
-|h3 13. The House Of Their Fathers
+|3 13. The House Of Their Fathers
 |p CT-41 defeats the Bronze Executor and enters the Shrines. Within the Explorer's Shrine CT-41 finds an Impulse Cannon and a strange, dead Native. As it grabs the Impulse Cannon, the Outsider speaks to it from within its glowing white Necrolith. The Outsider invites CT-41 to accept a new mission, and joins it as a Companion. In order to leave the Explorer's Shrine, CT-41 must use the Impulse Cannon to blast through broken stone.
 
-|h3 14. Let Them Make Me A Sanctuary
+|3 14. Let Them Make Me A Sanctuary
 |p CT-41 uses the Impulse Cannon to blast through collapsed stone at the base of the Mine and enters the Sanctuary. In the Sanctuary the Children of Thosmodeme give CT-41 a highly sanitized and distorted account of Cobb's Mutiny. They also tell of the Presence, and of Thosmodeme's Fragments. CT-41 defeats two of Thosmodeme's Guards, and climbs part way up the Openings to break into the Hall of Relics. CT-41 takes the High Grip Wheels, improving its ability to maneuver on slick surfaces and granting the ability to jump up walls.
 
-|h3 15. Whisper Out Of The Dust
+|3 15. Whisper Out Of The Dust
 |p CT-41 finds Ines Orozco's PDR and Rank Card, which allows it to access new areas of the Colony, including the Morgue. In the Morgue CT-41 finds Sood's body and his personal effects, including his PDR, a Lieutenant Commander's Rank Card. CT-41 enters the Habitation Units of Sood and Kozlov, retreiving the Anti-Personnel Laser and Kozlov's Toy. CT-41 returns to the Realm, and uses its new High Grip Wheels to navigate the Pumping Station. There it defeats the Obstruction and finds the Turbine.
 
 
 
-|h2 In Bondage Under The Elements
-|h4 CT-41 captures the three Greater Fragments of Thosmodeme
+|2 In Bondage Under The Elements
+|4 CT-41 captures the three Greater Fragments of Thosmodeme
 
-|h3 16. The Mist Of Darkness
+|3 16. The Mist Of Darkness
 |p CT-41 enters the Curing Baths and into the Healers' Locus. The enemies it fights here continue fighting, even after their bodies are broken. CT-41 enters the Surgical Chambers, and defeats the Puppet, a Seedless Lumene Native corpse reanimated by Fesh'togar. CT-41 takes the Native Prosthetics from a prosthetics lab, and moves into the Whispering Caves. CT-41 defeats Fesh'togar's Phoenixes, and enters his Sanctum. The Spirit of Air attacks CT-41, who defeats and captures Fesh'togar in the Necrolith. CT-41 finds the Preservation Units where the Deliverer is held captive. The Deliverer demands that CT-41 kill him. CT-41 destroys his Preservation Unit, and the Deliverer's Seed joins CT-41 as a Companion. CT-41 finds Strange Matter, allowing Kozlov's Toy to produce a Slow beam.
 
-|h3 17. Into Deep Waters
+|3 17. Into Deep Waters
 |p CT-41 descends into the Sea, passes through the Sunken Ship, and enters the Womb. The Outsider informs CT-41 that the once pristine pools of the Womb have been fouled by Uruthmu, and have been repurposed as breeding chambers for Thosmodeme's Servants. Plantlike growths, similar to the Deep Roots in the Root Fields, are ubiquitous throughout the Womb, and feed the Servants that are bred there. After destroying several Dark Overgrowths, CT-41 destroys the Dark Origin that had been planted in the lowest chamber of the Womb. CT-41 passes through the deepest section of the Abyssal Trench and enters Uruthmu's Sanctum, and defeats his Krakens. CT-41 confronts the Spirit of Water and captures it in the Necrolith, greatly increasing its power. CT-41 finds Hyperons, allowing Kozlov's Toy to produce a Speed beam.
 
-|h3 18. Everlasting Burnings
+|3 18. Everlasting Burnings
 |p CT-41 enters the Magma Lift beneath the Power Plant, and moves down into the Extractor, where it finds the Thermal Barrier. When CT-41 reaches only dead ends in the Extractor, it moves to the Magma Observatory and enters the western Magma Chamber. It moves down to the Slag Outlet, and reenters the Extractor. CT-41 moves west, and defeats the Iron Executor that guards the Factory. It attempts to move through the Factory, but requires a Stop Beam to be able to pass through the Assembly Line. CT-41 moves down into the Accelerator, and moves east to collect the Particle Emitter. CT-41 fights through Azeselon's armored Servant strains, including his Dragons. CT-41 enters Azeselon's Sanctum, and confronts the Spirit of Flame. CT-41 captures Azeselon in the Necrolith, and greatly increases its power. CT-41 finds Quantum Spin Liquid, which allows Kozlov's Toy to produce a Stop beam.
 
 
 
-|h2 Into The House Of The Lord
-|h4 CT-41 enters the Temple of Thosmodeme to dethrone the Tyrant
+|2 Into The House Of The Lord
+|4 CT-41 enters the Temple of Thosmodeme to dethrone the Tyrant
 
-|h3 19. I Will Make Them Rulers Over You
+|3 19. I Will Make Them Rulers Over You
 |p Using all three beams created by Kozlov's Toy, CT-41 moves through the powerful machinery of the Factory, and finds the Resonator. CT-41 uses the Resonator to pass through grating in the Factory's water tubing, and continues up into the Boiling Lake. Moving quickly to avoid damage, CT-41 speeds west into the Rulers' flooded Locus. It takes the Inconel Billet it finds in the Fortress and adapts it into the Inconel Plating moving down toward the Archive and Data Center. CT-41 speaks to the Intelligence and receives a large amount of Map data. Moving up the shaft that connects the Basin and the Refuge, CT-41 discovers the Linguist, who joins it as a Companion. With the Linguist, CT-41 is able to enter the lower portion of the Basin, and destroys the escaped Custodian in the Repository. CT-41 takes and equips the Energy Conduit.
 
-|h3 20. Temples Made With Hands
+|3 20. Temples Made With Hands
 |p CT-41 uses the Resonator to enter the Holy City, and passes the Servants' Quarters and the Correction Chambers. It passes the Laborers' former domiciles, and enters the Temple. As CT-41 moves through the ancient but decaying halls it defeats several Temple Gaurds, each housing a Lesser Fragment. These Fragments each give the Necrolith a permanent increase in power. CT-41 arrives at the Antechamber, but cannot open the door to the Throneroom. CT-41 finds Quantum Black Holes in one of the Temple's many Tribute Chambers, and uses them with Kozlov's Toy to generate a Reverse Beam. CT-41 uses the reverse beam to navigate the rest of the way through the Temple.
 
-|h3 21. Hell From Beneath
+|3 21. Hell From Beneath
 |p CT-41 arrives finally at the Well of Offering, and jumps down into the Pool at the eastern end of the Throneroom. Thosmodeme attacks CT-41, and battle rages between them. After CT-41 deals sufficient damage, Thosmodeme begins to resort to devastating attacks that leave him in a weakened state. The living Outsider kills the Temple Guards before the Pit, and breaks the sarcophagal stone that covers it. Voronash is loosed and tears through the crust of Lumen 2. The rumble of Voronash's approach grows louder, and he bursts through the western wall of the Throneroom. After a fierce battle, Voronash consumes Thosmodeme, and grows in size and power. He then turns toward CT-41.
 
 
 
-|h2 The Beast And The False Prophet
-|h4 The Paralus comes to Lumen 2
+|2 The Beast And The False Prophet
+|4 The Paralus comes to Lumen 2
 
-|h3 22. Be Sober, Be Vigilant
+|3 22. Be Sober, Be Vigilant
 |p CT-41 attempts to fight Voronash, but is unable to defeat him now that he has devoured Thosmodeme. CT-41 flees, and enters the ragged tunnel Voronash tore through the soil and stone. Voronash chases CT-41 through the Labyrinth, and CT-41 escapes by entering the Worshippers' Catacombs. After Voronash abandons the pursuit, CT-41 explores the Pit and the Lower Ruins. CT-41 enters the Crystal Kingdom and destroys the Crystal King before taking its Photon Crystal. CT-41 moves back up and to the east, where it finds the Corner Cutter, which it uses to enter the Whispering Caves. CT-41 returns to the Sanctuary, where it finds all life gone, and the Tomb of the Prophet cracked open.
 
-|h3 23. He Made Ready His Chariot
+|3 23. He Made Ready His Chariot
 |p CICI sends a comm to CT-41, reporting that an unidentified party is destroying the Communications Bunker. CT-41 returns to the Farsight Colony, to find it in lockdown. CT-41 begins to look for a new route into the Colony. It defeats the Challenger in the Arena and takes its Alloy Shell, before moving up into the Warriors' Treasury. CT-41 continues into the Upper Ruins, down into the Nursery, and finally int the Colony's Liquid Waste Tanks. CT-41 moves to the Communications Bunker, where it speaks with and fights the living Outsider. With the aid of its Companions, CT-41 holds its own against its foe. The Outsider eventually flees, using its Necrolith to return to the Prime Altar. The Outsider drops the Commander's Rank Card, which CT-41 takes and uses to enter the Vault and the Refinery, acquiring the Constant Rotor and the Pneumatic Pistons.
 
-|h3 24. I Will Exalt My Throne Above The Stars
+|3 24. I Will Exalt My Throne Above The Stars
 |p After #NUMBER years pass, during which CT-41 may explore Lumen 2, the Paralus arrives in the Fortuna Crater. CT-41 boards the vessel, and speaks to several members of its Cooperative as it works its way toward the Bridge. Once there, Director Jusuf Manigault promotes CT-41 to the rank of Captain, and awards it an ancient Captain's Rank Card. CT-41 cautions Manigault about the Outsider, but Manigault, under pressure from the Outsider and the IDF, eventually confines CT-41 to the Argo.
 
-|h3 25. She Is Not Dead, But Sleepeth
+|3 25. She Is Not Dead, But Sleepeth
 |p CT-41 awakens Jessica Arai from cryostasis, but she has suffered debilitating Hibernation Rot, and cannot move her legs. CT-41 informs Jessica of its situation, and she tells CT-41 of her research on the Jannah Massacre. With CT-41's permission she places it in sleep mode, and during a procedure lasting several hours removes its BCU. While CT-41 is in sleep mode and having its BCU removed, the living Outsider brings equipment to the surface of Lumen 2, to be loaded into the Paralus. Manigault orders his crew to place this luggage in the Storage Bay. Unbeknownst to Manigault, the Outsider bears Voronash within his Seed, which he had modified long before to house his master.
 
-|h3 26. The Perfect Law Of Liberty
+|3 26. The Perfect Law Of Liberty
 |p CT-41, now freed of its BCU, uses its Captain's Rank Card to launch the Gyoki Satellite and move to the Clifftop. From the Clifftop CT-41 leaps to the Paralus' dorsal surface. CT-41 uses the Resonator to enter the Paralus, and attempts to disable it and prevent it from leaving Lumen 2. Captain Manigault orders the ship's garrison to apprehend or destroy CT-41. CT-41 defeats the Agent, and acquires the Military Laser. It continues through the Paralus, and defeats the Large Threat Suppressor that has been positioned to defend the Mass Accumulator, taking its Inferno Chamber. CT-41 destroys the Accumulator, and the Paralus is left stranded. The enraged Voronash emerges from the Outsider's Seed and begins to ravage the Paralus and its Cooperative. During a lengthy chase, Voronash pursues CT-41, who finds the Tunneler and uses it to escape. Jessica succumbs to Hibernation Rot. CT-41 returns to the Paralus and speaks to the Oracle, who gives it the Map data of the Paralus and the proximal Lumene surface.
 
 
 
-|h2 Come Up To Me Into The Mount
-|h4 CT-41 navigates the Badlands and scales the Mountainside
+|2 Come Up To Me Into The Mount
+|4 CT-41 navigates the Badlands and scales the Mountainside
 
-|h3 27. The Filth Of The World
+|3 27. The Filth Of The World
 |p Using the Tunneler, CT-41 moves up through the dilapidated Openings, and then west, into the Badlands. It uses the Sonic Auger, Impact Cannon, and Electron Drill to dig through layers of sediment, blast apart compacted cubes of refuse, and cut through large items brought for salvage from the Desolation. Passing through various pitfalls and snares in the Waste Chambers, and while avoiding Pest Control and fearless scavengers, CT-41 moves into the Recycling Plant, where it finds several recycled Materials. Before it can move to the surface, CT-41 clears the Tumor from the Atmospheric Regulation Facility, takes the Electron Well, and gains access to the Facility's ductwork. CT-41 moves to the Incinerator, and passes through its various chambers and furnaces, into its exhaust and filtration ductwork, and finally onto the Foothills of the Volcano, near the western rim of the Fortuna Crater.
 
-|h3 28. The Mountain Of The LORD
+|3 28. The Mountain Of The LORD
 |p CT-41 climbs the Mountainside over the course of several Turns, using the passing of the seasons to aid its climb. During the day all water is evaporated, during the night all water is frozen, and at dawn and dusk liquid water is present. The changing of the seasons also affects the direction of wind, if it is present, and the type of lifeforms CT-41 encounters. CT-41 defeats the Stone Giant, and climbs up out of its home using the Giant's broken body.
 
-|h3 29. There Is One Lawgiver
+|3 29. There Is One Lawgiver
 |p CT-41 moves through a tranquil region of the Mountain, above the clouds. It falls into the Caldera, and enters into a narrow corridor at its eastern edge. CT-41 enters the Hermit's Cave, and talks with Vadim, who has returned to Creation from the timeless chaos of the Outside. Vadim recounts his tale, and gives CT-41 cautionary advice regarding its coming confrontation with Voronash. Vadim produces the Lawgiver, and gives it to CT-41.
 
 
 
-|h2 Gods Whom Ye Know Not
-|h4 CT-41 awakens and destroys the Old Gods
+|2 Gods Whom Ye Know Not
+|4 CT-41 awakens and destroys the Old Gods
 
-|h3 30. Ashtoreth The Abomination
+|3 30. Ashtoreth The Abomination
 |p CT-41 enters the Enclave, and explores the Lower Root Fields. CT-41 finds the Medusa in the Flow Caverns next to the petrified body of a Native. CT-41 enters the chamber of the Origin, and speaks to the Groundskeeper, who joins it as a Companion. CT-41 passes through the Forbidden Door, and awakens Ashtoreth and her children. After defeating Ashtoreth, CT-41 adapts its Seed into the God's Heart.
 
-|h3 31. They Joined Themselves Unto Baalpeor
+|3 31. They Joined Themselves Unto Baalpeor
 |p CT-41 moves through the stones of the Quarry, and discovers the Mass Inhibtor. It continues west to the Slag Heap, and navigates its treacherous chemical spills. CT-41 moves up into the Fossil Site, where it finds the remains of several Ancients, before moving west toward Baalpeor. After awakening and defeating Baalpeor, CT-41's Nanite Colony converts its Seed into the God's Hoard.
 
-|h3 32. An High Place For Chemosh
+|3 32. An High Place For Chemosh
 |p CT-41 passes through the Mud Pits, and up toward the Listening Post. It speaks to the Stargazer, who joins it as a Companion. CT-41 discovers the Prospecting Camp, and the begins to explore the Native Diggings. CT-41 awakens and destroys Chemosh, and the Nanite Colony adapts its Seed into the God's Veil.
 
-|h3 33. In The Temple Of Dagon
+|3 33. In The Temple Of Dagon
 |p CT-41 moves deep into the Wild, and discovers the Cave-in. CT-41 kills the Tribesman, and gains him as a companion. It then moves up into the Beasthome, where it finds the Scattershot in one of the many Beast nests. CT-41 continues onward, and finally awakens the Beasts' god Dagon, whom they serve, and who has not entered Dormancy like the other Old Gods. CT-41 kills Dagon, and takes its Seed, which the Nanite Colony uses to produce the God's Hide.
 
-|h3 34. Through The Fire To Molech
+|3 34. Through The Fire To Molech
 |p CT-41 explores the Magma Chambers, and observes the Cycle of the Magma Worm adolescents. CT-41 moves down into the intense heat of the Underworld, and witnesses enormous Magma Worm adults as it is pulled west by the current. CT-41 enters a western Magma Chamber, and moves upward until it awakens Molech. After killing Molech, the Nanite Colony adapts its Seed to produce the God's Light.
 
 
 
-|h2 The Paths Of The Destroyer
-|h4 CT-41 explores the Hearth, the Broken Path, and the Destroyer Wreck
+|2 The Paths Of The Destroyer
+|4 CT-41 explores the Hearth, the Broken Path, and the Destroyer Wreck
 
-|h3 35. Engines, Invented By Cunning Men
+|3 35. Engines, Invented By Cunning Men
 |p Using the Tunneler, CT-41 bypasses the Seals that prevent access to the Forbidden Chambers. CT-41 finds but cannot pass through a Security Door leading to the Restricted Area. After careful exploration, CT-41 takes control of the Golden Executor. CT-41 uses the Executor to pass the Security Door and enter the Restricted Area. CT-41 follows the Custodian through its highly modified home, blasting through Destroyer constructs that get in its way. CT-41 leaves the Executor to defeat the Custodian and take the Volatility Launcher. CT-41 moves back up out of the Restricted Area and takes the Mass Inhibitor from a previously inaccessible lab.
 
-|h3 36. As The Sand Of The Sea
+|3 36. As The Sand Of The Sea
 |p CT-41 returns to the Farsight Colony's Reactor, and uses the Tunneler to fall toward the Waste Dump. CT-41 uses the Mass Inhibitor to move past huge rocks that fall during the Destruction. CT-41 begins to move through the Broken Path, a treacherous series of dry and shattered caverns beneath the Sands that pass through the remains of the Spaceport. After navigating the crumbling stone and viscous ambush predators of the Path, CT-41 arrives at the Oasis.
 
-|h3 37. The Armies Of The Aliens
+|3 37. The Armies Of The Aliens
 |p CT-41 moves up to the Base Camp and finds an entrance cut into the Destroyer Wreck. CT-41 moves inside, and begins its claustrophobic ascent through twisted and mangled bulkheads of the Wreck's hull. CT-41 discovers and passes through many local Destroyer Gateways, eventually reaching a local Hub. CT-41 encounters various constructs as it moves from chamber to chamber. Eventually, using all of its tools to defeat powerful Manifestations and navigate the haphazard and alien environment, CT-41 reaches the top of the Wreck, and finds an active interstellar Gateway. The Torchbearer emerges, and CT-41 defeats the powerful Destroyer construct and takes its Coronal Aperture.
 
 
 
-|h2 The Synagogue Of Satan
-|h4 CT-41 enters the Second Temple to destroy the Devouring Spirit
+|2 The Synagogue Of Satan
+|4 CT-41 enters the Second Temple to destroy the Devouring Spirit
 
-|h3 38. Out Of The Flinty Rock
+|3 38. Out Of The Flinty Rock
 |p After returning from the Hermit's Cave, CT-41 finds many areas of the Underground devoid of life. Only periodic surface life and robotic beings remain. Equipped with the Lawgiver, CT-41 moves into the Razor Caverns, and maneuvers through near impossibly tight passages of sharp rock. With the Lawgiver equipped, CT-41 is able to destroy the unnatural barriers maintained by Voronash and his Angels, which prevent access to the Second Temple.
 
-|h3 39. His Angels Were Cast Out With Him
+|3 39. His Angels Were Cast Out With Him
 |p CT-41 enters the Second Temple, and contends with the Angels that dwell there. Space, time and causality are not as they should be in the Second Temple. CT-41 passes through many chambers where it confronts increasingly powerful iterations of the living Outsider's transformation. Though these Angels are powerful, the Outsider does not permit them to be his equals. Before passing into the Laboratory, CT-41 defeats the Chayot ha Kodesh, the most powerful of the Outsider's children.
 
-|h3 40. Where The Light Is As Darkness
+|3 40. Where The Light Is As Darkness
 |p CT-41 enters the Laboratory, and passes through old and quiet chambers where the Outsider's children are not permitted. CT-41 forces its way into the chamber of the Prime Altar, and confronts the Outsider, who is hurriedly attempting to modify the Altar for time travel. The Outsider's Seed blazes with light, as Voronash has entered his Seed to aid him in his work. CT-41 attacks the Outsider until Voronash emerges from the Seed to fight alongside his pupil. CT-41 attacks Voronash, but the Outsider heals him with Selves from his Seed. CT-41 attacks the Outsider, who is not healed by Voronash. When the Outsider dies, his Seed explodes, and all the Selves trapped within are absorbed by Voronash. The Devouring Spirit becomes more powerful than ever. CT-41 defeats Voronash, and captures his chaotic Self in the Necrolith, which becomes visibly unstable. CT-41 and the Outsider are trapped in the chamber of the Prime Altar, and use the Prime Altar to return to the moment of its activation.
 
 
 
-|h2 I Will Put A New Spirit Within You
-|h4 CT-41 arrives in Truth III
+|2 I Will Put A New Spirit Within You
+|4 CT-41 arrives in Truth III
 
-|h3 41. Repent Therefore
+|3 41. Repent Therefore
 |p CT-41 and the Outsider arrive on the Prime Altar at the instant the Outsider first activated it. The Necrolith enters the Outsider's mind, shows him visions of the future, and rebukes his evil. CT-41 can explore the chamber, and sees a vat filled with the remains of Native young. After coming to an unspoken accord, the Necrolith moves to the Prime Altar, and the Necromnacer sends it out of Creation. Shortly thereafter the Prime Altar begins to crackle with electrity, before being blown apart due to a massive electrostatic discharge. CT-41's carbon lattice brain is destroyed by the resulting electromagnetic pulse.
 
-|h3 42. New Heavens And A New Earth
+|3 42. New Heavens And A New Earth
 |p Jessica Arai assembles and activates CT-41, and events proceed as they did in Truth II. CT-41 enters the recess at the base of the eastern Crater wall, where it finds a powerful version of itself and a Native, who identifies itself as the Outsider. The Native speaks to CT-41, and then presses a button on CT-41's opened interface panel. A download screen appears, as the Outsider begins to transfer data from the Caretaker's insulated sensory log to CT-41. CT-41 witnesses many of its exploits from its previous journey, as they actually happened. A download bar progresses along the bottom of the screen, as the credits are presented in a box to the side of CT-41's visual display.

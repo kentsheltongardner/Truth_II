@@ -1,85 +1,64 @@
 Truth II
 
-|h2 Overview
-
+|2 Overview
 |p Truth II is a Metroidvania 
 
-|h2 Gameplay
-
+|2 Gameplay
 |p Exploration, combat, puzzle solving, no cinematics
 
-|h2 Controls
-
+|2 Controls
 |p Mouse and keyboard, no deviation for consoles or handheld
 
-|h2 CT-41
-
+|2 CT-41
 |p Shields, integrity, battery, generator, tools, nanite colony + adaptation
 
-|h2 Movement
-
+|2 Movement
 |p Wheels, thrusters, high grip treads, Altars
 
-|h2 Combat
-
+|2 Combat
 |p Enemies stay dead until time passes
 
-|h2 Victory
-
+|2 Victory
 |p Plenty of time is given, but the player may squander it if he is not careful
 
-|h2 Saving
-
+|2 Saving
 |p Tree of life style save, new branch after each load, added to tree when player saves. CT-41 can save whenever after BCU removed
 
-|h2 Weapon and Tool Use
-
+|2 Weapon and Tool Use
 |p Weapon combinations, heavy emphasis on discovering correct weapons or tools to use against specific enemies
 
-|h2 Necrolith and Companions
-
+|2 Necrolith and Companions
 |p Experience, combos, selection
 
-|h2 Interface and Saving
-
+|2 Interface and Saving
 |p Menu operation, plugins like Optimus and Scribe
 
-|h2 Optimization and Materials
-
+|2 Optimization and Materials
 |p Lasers, Destroyer weapons, reservoir weapons
 
-|h2 Camera and Vision
-
+|2 Camera and Vision
 |p Unseen, seen before, seen now
 
-|h2 Temporal Manipulation
-
+|2 Temporal Manipulation
 |p Compression, Kozlov's Toy, Truth I, II, and III
 
-|h2 Dialog
-
+|2 Dialog
 |p Communication optional, allow complete or partial skipping
 
-|h2 Purpose Driven Design
-
+|2 Purpose Driven Design
 |p Each area has a reason to be, whether produced my natural forces or rational creatures
 
-|h2 Physics
-
+|2 Physics
 |p Water, ice, lava, heat, sensors
 
-|h2 Visual Style
-
+|2 Visual Style
 |p Art is greater than poly count, hand drawn is greater than photorealistic, distinct areas, but consistent feel
 
-|h2 Respect for the Player
-
+|2 Respect for the Player
 |p Laws for treatment of player
 
-|h2 Game Philosophy
-
+|2 Game Philosophy
 |p Goals for player experience
 
-|h2 Themes and Story Arc
-
+|2 Themes and Story Arc
 |p Coming into being as a person, family, the other, time

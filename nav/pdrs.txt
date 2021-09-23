@@ -1,11 +1,9 @@
 PDR Entries
 
-|h2 Log Entries
-
+|2 Log Entries
 |p During its journey of exploration on Lumen 2, CT-41 recovered and reviewed the Personal Data Recorders of several Farsight Expedition members. Transcripts of relevant PDR log entries for these individuals are linked below. Log entries appear in chronological order.
 
-|h3 Transcripts
-
+|3 Transcripts
 |p [Abelino Montes:pdrs/abelino_montes]
 |p [Ines Orozco:pdrs/ines_orozco]
 |p [Kiaan Sood:pdrs/kiaan_sood]

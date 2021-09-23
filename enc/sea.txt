@@ -1,35 +1,36 @@
 Sea
-|h2 Overview
+
+|2 Overview
 |p The Sea was an enormous body of water above the primordial chambers of the Womb. After rains fell in and around the Fortuna Valley, they seeped through the porous rock of the Shallows before settling in the Sea. The Sea was understood by most Lumene Natives to divide the Shallows from the Deep.
 
 |p The Sea was the largest single chamber in the Underground, and was surrounded by smaller watery caverns. The waterline of the Sea rose and fell in time with the Turn and the rains of the Lumene dawn and dusk. Signs of the regularly changing waterline were visible on the walls of the Sea, as well as by the presence of docks, piping and platforms at different heights.
 
 |p The Sea was the Kindred's primary water source, and Natives routed or pumped water from the Sea to their facilities throughout the Underground using gravity or the Pumping Station.
 
-|h4 Truth II
+|4 Truth II
 
 |p During the events of Truth II, CT-41 first moves across the Sea after destroying the Vermin infestation in the Geothermal Power Station and returning power to the Underground. CT-41 must use the rising and lowering level of the Sea to its advantage as it makes its way slowly across.
 
-|h2 Areas
+|2 Areas
 
-|h3#abyssal_trench Abyssal Trench
+|3#abyssal_trench Abyssal Trench
 
 |p The Abyssal Trench was a dark and murky fissure at the base of the Sea. The water in the Trench was thick with sediments and the wispy tendrils of plant life, and even powerful lights were unable to penetrate its darkness fully. The walls of the Trench were lined with strange, gnarled growths and forbidding openings.
 
-|h4 Truth II
+|4 Truth II
 
 |p During the events of Truth II, CT-41 takes the #ITEM from an exploration exoskeleton it finds in one of the caverns connected to the Abyssal Trench. Later it passes through previously inaccessible areas of the Trench as it moves from the Womb into Uruthmu's Sanctum.
 
-|h3#pumping_station Pumping Station
+|3#pumping_station Pumping Station
 
 |p The Pumping Station was a facility, built by Native Explorers beneath the western shore of the Sea, which before the Destruction pumped water to the upper crust and surface of Lumen 2. It ran parallel to the Openings, and supplied water to many structures in and near the Fortuna Crater. After the Destruction the Pumping Station pumped water to Explorers in the Badlands.
 
 |p No water was pumped to the Warriors' Locus. Before the Destruction, Warriors met their needs with water that naturally pooled in the caverns near what would later become the Farsight Expedition's Fuel Dump.
 
-|h4 Truth II
+|4 Truth II
 
 |p During the events of Truth II, CT-41 is able to use the large diameter piping in the Pump Station to navigate to the various Native Loci.
 
-|h3#wreck Wreck
+|3#wreck Wreck
 
 |p The Wreck was an ancient Native vessel used to carry individuals and supplies across the Sea. It capsized and sank to the floor of the Sea after it was bombarded by crumbling rock during the Destruction. The Remnant replaced the large vessel with several much smaller Ferries during the Hidden Age.
