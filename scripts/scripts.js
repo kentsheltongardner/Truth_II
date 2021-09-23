@@ -149,11 +149,11 @@ window.onload = async function() {
         let a = navButtons[i].childNodes[0];
         a.setAttribute("href", urlPrefix + "?path=nav/" + a.getAttribute("href"));
     }
-    //  Move to element id passerd through url
-    let hashID = window.location.hash;
-    if (hashID) {
-        hashID = hashID.replace("#", "");
-        document.getElementById(hashID).scrollIntoView();
+    //  Move to element id passed through url
+    let hashtagID = window.location.hash;
+    if (hashtagID) {
+        hashtagID = hashtagID.replace("#", "");
+        document.getElementById(hashtagID).scrollIntoView();
     }
 }
 
