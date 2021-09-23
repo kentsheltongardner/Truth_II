@@ -63,9 +63,7 @@ window.onresize = function() {
 
 //  Page load
 window.onload = async function() {
-    initializeCanvas();
-    createStars();
-    drawStars();
+
     //  If someone tries to access the page with an incomplete url, direct to default page
     if (!window.location.href.includes("?")) {
         window.location.href += "?path=nav/truth_ii";
@@ -88,6 +86,9 @@ window.onload = async function() {
         hashtagID = hashtagID.replace("#", "");
         document.getElementById(hashtagID).scrollIntoView();
     }
+    initializeCanvas();
+    createStars();
+    drawStars();
 }
 
 async function contentHTML(path) {
