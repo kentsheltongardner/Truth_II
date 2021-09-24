@@ -183,13 +183,15 @@ body {
     display: flex;
     /* box-shadow: 0 0 10px yellow inset; */
 }
-.content-box > div > img {
-    width:100%;
-    height:100%;
+/* Border radius is gross and skewed*/
+/* dont perform animations at load*/
+.img-box > img {
+    width: 100%;
+    height: 100%;
     display: block;
     margin: auto;
     padding: 20px 10px 0px 10px;
-    border-radius: 5px;
+    border-radius: 5px; 
     object-fit: contain;
 }
 
@@ -204,22 +206,13 @@ body {
     font-size: 18px;
     user-select: none;
     color: var(--text-nav);
-    border-bottom: 2px solid transparent;
 }
-.nav-button>.link:hover {
-    border-color: var(--text-nav);
-}
-
 
 .link {
     color: white;
     text-decoration: none;
     transition: 0.4s;
-    border-bottom: 2px solid transparent;
     cursor: pointer;
-}
-.link:hover {
-    border-color: white;
 }
 span.link {
     font-weight: bold;

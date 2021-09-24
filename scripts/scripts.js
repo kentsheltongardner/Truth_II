@@ -78,21 +78,24 @@ let colorPosition = 0;
 function valueAtPosition(position) {
     return Math.round(COLOR_CONST * (1 + Math.sin(TAU * (position))));
 }
-function rgb(r, g, b) {
+function rgb(r, g, b, a) {
     return "rgb(" + r + ", " + g + ", " + b + ")";
+}
+function rgba(r, g, b, a) {
+    return "rgba(" + r + ", " + g + ", " + b + ", " + a + ")";
 }
 function updateColorCycle() {
     let r = valueAtPosition(colorPosition + 2/3);
     let g = valueAtPosition(colorPosition);
     let b = valueAtPosition(colorPosition + 1/3);
-    let c = rgb(r, g, b);
     let buttons = document.getElementsByClassName("nav-button");
     let title = document.getElementById("title");
+    let textColor = rgb(r, g, b);
+    title.style.color = textColor;
     for (let i = 0; i < buttons.length; i++) {
-        let button = buttons[i];
-        button.firstChild.style.color = c;
+        let buttonText = buttons[i].firstChild;
+        buttonText.style.color = textColor;
     }
-    title.style.color = c;
     colorPosition += COLOR_INCREMENT;
 }
 
