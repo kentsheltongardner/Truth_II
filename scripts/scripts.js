@@ -1,7 +1,6 @@
 const STAR_DENSITY = 0.003;
 const STAR_R_MIN = 0.1;
 const STAR_R_MAX = 1.5;
-const TAU = 2 * Math.PI;
 const SCROLL_MIN = 0.0;
 const SCROLL_MAX = 0.125;
 
@@ -27,12 +26,12 @@ function createStars() {
     let area = w * h;
     let starCount = area * STAR_DENSITY;
     stars = [];
-    resetSeed();
+    // resetSeed();
     for (let i = 0; i < starCount; i++) {
-        let x = rand() * w;
-        let y = rand() * h;
-        let r = STAR_R_MIN + rand() * rand() * (STAR_R_MAX - STAR_R_MIN);
-        let scroll = SCROLL_MIN + rand() * (SCROLL_MAX - SCROLL_MIN);
+        let x = Math.random() * w;
+        let y = Math.random() * h;
+        let r = STAR_R_MIN + Math.random() * Math.random() * (STAR_R_MAX - STAR_R_MIN);
+        let scroll = SCROLL_MIN + Math.random() * (SCROLL_MAX - SCROLL_MIN);
         stars.push({x: x, y: y, r: r, scroll: scroll});
     }
 }
@@ -69,15 +68,43 @@ window.onresize = function() {
 }
 
 
+
+
+const COLOR_INCREMENT = 0.0005;
+const COLOR_UPDATE_MS = 50;
+const TAU = 2 * Math.PI;
+const COLOR_CONST = 255 / 2;
+let colorPosition = 0;
+function valueAtPosition(position) {
+    return Math.round(COLOR_CONST * (1 + Math.sin(TAU * (position))));
+}
+function rgb(r, g, b) {
+    return "rgb(" + r + ", " + g + ", " + b + ")";
+}
+function updateColorCycle() {
+    let r = valueAtPosition(colorPosition + 2/3);
+    let g = valueAtPosition(colorPosition);
+    let b = valueAtPosition(colorPosition + 1/3);
+    let c = rgb(r, g, b);
+    let buttons = document.getElementsByClassName("nav-button");
+    let title = document.getElementById("title");
+    for (let i = 0; i < buttons.length; i++) {
+        let button = buttons[i];
+        button.firstChild.style.color = c;
+    }
+    title.style.color = c;
+    colorPosition += COLOR_INCREMENT;
+}
+
+
 //  Page load
 window.onload = async function() {
-
+    setInterval(updateColorCycle, COLOR_UPDATE_MS);
     //  If someone tries to access the page with an incomplete url, direct to default page
     if (!window.location.search) {
         window.location.href += "?nav/truth_ii.html";
     }
     let path = window.location.search.substring(1);
-    console.log(path);
     addLinkListeners(document.getElementById("nav-bar"));
     loadContent(path, true);
     initializeCanvas();
@@ -126,17 +153,17 @@ function addLinkListeners(element) {
 
 
 
-const a = 1103515245;
-const c = 12345;
-const m = 2**31;
-let seed;
-function resetSeed() {
-    seed = 1;
-}
-function rand() {
-    seed = (a * seed + c) % m;
-    return seed / m;
-}
+// const a = 1103515245;
+// const c = 12345;
+// const m = 2**31;
+// let seed;
+// function resetSeed() {
+//     seed = 1;
+// }
+// function rand() {
+//     seed = (a * seed + c) % m;
+//     return seed / m;
+// }
 
 
 window.onpopstate = function (event) {

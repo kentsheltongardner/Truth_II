@@ -11,8 +11,8 @@
 
     --color-scroll: rgb(159, 157, 172);
 
-    --text-nav: rgb(189, 13, 0);
-    --text-header: rgb(189, 13, 0);
+    --text-nav: rgb(65, 119, 190);
+    --text-header: rgb(65, 119, 190);
     --text-content: rgb(214, 212, 224);
     --text-margin: rgb(159, 157, 172);
     --text-footer: rgb(108, 107, 116);
@@ -262,7 +262,7 @@ span.link {
         top: 50%;
         left: 50%;
         position: absolute;
-        width: 40%;
+        width: 50%;
     }
     #header {
         grid-area: 1 / 2 / 2 / 10;
