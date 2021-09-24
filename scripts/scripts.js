@@ -27,11 +27,12 @@ function createStars() {
     let area = w * h;
     let starCount = area * STAR_DENSITY;
     stars = [];
+    resetSeed();
     for (let i = 0; i < starCount; i++) {
-        let x = Math.random() * w;
-        let y = Math.random() * h;
-        let r = STAR_R_MIN + Math.random() * Math.random() * (STAR_R_MAX - STAR_R_MIN);
-        let scroll = SCROLL_MIN + Math.random() * (SCROLL_MAX - SCROLL_MIN);
+        let x = rand() * w;
+        let y = rand() * h;
+        let r = STAR_R_MIN + rand() * rand() * (STAR_R_MAX - STAR_R_MIN);
+        let scroll = SCROLL_MIN + rand() * (SCROLL_MAX - SCROLL_MIN);
         stars.push({x: x, y: y, r: r, scroll: scroll});
     }
 }
@@ -40,11 +41,18 @@ function drawStars() {
     let context = canvas.getContext('2d');
     context.clearRect(0, 0, canvas.width, canvas.height);
     context.beginPath();
-    let offset = document.getElementById("content").scrollTop;
-    let maxScroll = document.getElementById("content").scrollHeight * SCROLL_MAX;
+    let content = document.getElementById("content");
+
+
+    let position = content.scrollTop;
+    let viewHeight = content.clientHeight;
+    let totalHeight = content.scrollHeight;
+    let totalScroll = totalHeight - viewHeight;
+    let offset = Math.ceil(totalScroll / canvas.height) * canvas.height;
+
     for (let i = 0; i < stars.length; i++) {
         let s = stars[i];
-        let y = (s.y + maxScroll - s.scroll * offset) % canvas.height;
+        let y = (s.y + offset - s.scroll * position) % canvas.height;
         context.moveTo(s.x, y);
         context.arc(s.x, y, s.r, 0, TAU);
     }
@@ -65,35 +73,74 @@ window.onresize = function() {
 window.onload = async function() {
 
     //  If someone tries to access the page with an incomplete url, direct to default page
-    if (!window.location.href.includes("?")) {
-        window.location.href += "?path=nav/truth_ii";
+    if (!window.location.search) {
+        window.location.href += "?nav/truth_ii.html";
     }
-    //  Get content html from url params
-    let params = new URLSearchParams(window.location.search);
-    let path = params.get("path");
-    let html = await contentHTML(path);
-    
-    let titleIndex = html.search('\n');
-    let title = document.getElementById("title");
-    document.title = title.innerHTML = html.substring(0, titleIndex);
-
-    let content = document.getElementById("content");
-    content.innerHTML = html.substring(titleIndex);
-    
-    //  Move to element id passed through url
-    let hashtagID = window.location.hash;
-    if (hashtagID) {
-        hashtagID = hashtagID.replace("#", "");
-        document.getElementById(hashtagID).scrollIntoView();
-    }
+    let path = window.location.search.substring(1);
+    console.log(path);
+    addLinkListeners(document.getElementById("nav-bar"));
+    loadContent(path, true);
     initializeCanvas();
     createStars();
     drawStars();
 }
+async function loadContent(path, add) {
+    if (add) {
+        history.pushState(path, null, "index.html?" + path);
+    }
 
+    let html = await contentHTML(path);
+    let titleIndex = html.search('\n');
+    let title = document.getElementById("title");
+    document.title = title.innerHTML = html.substring(0, titleIndex);
+    let content = document.getElementById("content");
+    content.innerHTML = html.substring(titleIndex);
+    
+    //  Move to element id passed through url
+    //  e.g. index.html?nav/enc#f
+    let hashtagID = window.location.hash;
+    if (hashtagID) {
+        hashtagID = hashtagID.replace("#", "");
+        document.getElementById(hashtagID).scrollIntoView();
+    } else {
+        content.scrollTop = 0;
+    }
+    addLinkListeners(content);
+}
 async function contentHTML(path) {
     let url = window.location.href;
     let cutIndex = url.indexOf("index.html");
-    let dataPath = url.substring(0, cutIndex) + path + ".html";
+    let dataPath = url.substring(0, cutIndex) + path;
+
     return fetch(dataPath).then(response => response.text());
+}
+function addLinkListeners(element) {
+    let links = element.getElementsByClassName("link");
+    for (let i = 0; i < links.length; i++) {
+        let link = links[i];
+        link.addEventListener('click', function (event) {
+            loadContent(link.dataset.path, true);
+        });
+    }
+}
+
+
+
+const a = 1103515245;
+const c = 12345;
+const m = 2**31;
+let seed;
+function resetSeed() {
+    seed = 1;
+}
+function rand() {
+    seed = (a * seed + c) % m;
+    return seed / m;
+}
+
+
+window.onpopstate = function (event) {
+    if (event.state) {
+        loadContent(event.state, false);
+    }
 }

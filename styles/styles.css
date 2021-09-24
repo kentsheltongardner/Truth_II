@@ -11,8 +11,8 @@
 
     --color-scroll: rgb(159, 157, 172);
 
-    --text-nav: rgb(211, 202, 202);
-    --text-header: rgb(214, 212, 224);
+    --text-nav: rgb(189, 13, 0);
+    --text-header: rgb(189, 13, 0);
     --text-content: rgb(214, 212, 224);
     --text-margin: rgb(159, 157, 172);
     --text-footer: rgb(108, 107, 116);
@@ -147,8 +147,7 @@ body {
 .content-box > aside {
     color: var(--text-margin);
     font-size: 12px;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding: 10px 5px;
     flex: 1;
 }
 .content-box > p {
@@ -172,6 +171,7 @@ body {
     font-size: 25px;
     font-weight: normal;
     padding-bottom: 15px;
+    
 }
 .content-box > h4 {
     padding-top: 5px;
@@ -179,7 +179,19 @@ body {
     font-weight: normal;
     padding-bottom: 15px;
 }
-
+.content-box > .img-box {
+    display: flex;
+    /* box-shadow: 0 0 10px yellow inset; */
+}
+.content-box > div > img {
+    width:100%;
+    height:100%;
+    display: block;
+    margin: auto;
+    padding: 20px 10px 0px 10px;
+    border-radius: 5px;
+    object-fit: contain;
+}
 
 
 .nav-button {
@@ -187,28 +199,30 @@ body {
     flex: 1;
     position: relative;
 }
-.nav-button>a {
+.nav-button>.link {
     text-transform: uppercase;
     font-size: 18px;
     user-select: none;
     color: var(--text-nav);
     border-bottom: 2px solid transparent;
 }
-.nav-button:hover>a {
-    color: white;
-    border-color: white;
+.nav-button>.link:hover {
+    border-color: var(--text-nav);
 }
 
 
-
-a {
+.link {
     color: white;
     text-decoration: none;
-    transition: 0.8s;
+    transition: 0.4s;
     border-bottom: 2px solid transparent;
+    cursor: pointer;
 }
-a:hover {
+.link:hover {
     border-color: white;
+}
+span.link {
+    font-weight: bold;
 }
 
 
@@ -283,7 +297,7 @@ a:hover {
     .nav-button {
         min-height: 25px;
     }
-    .nav-button>a {
+    .nav-button>.link {
         position: absolute;
         left: 10px;
         top: 50%;
@@ -332,7 +346,7 @@ a:hover {
     .nav-button {
         display: flex;
     }
-    .nav-button>a {
+    .nav-button>.link {
         margin: auto;
     }
     #backing {

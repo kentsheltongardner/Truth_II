@@ -1,6 +1,6 @@
 Chapters
 
-|i CT-41 can go to command deck at any time, but garret only talks to it after it has spoken to the remaining crew
+|CT-41 can go to command deck at any time, but garret only talks to it after it has spoken to the remaining crew
 Go up and spy out the region - watcher, motion sensor
 Use volt gun to power Altar before restoring power
 Margins for tricks and ideas outside normal gamepath

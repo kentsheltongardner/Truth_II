@@ -60,9 +60,7 @@ Necrolith Gifts
 |p If CT-41's Necrolith energy is high enough, and all Companions are activated, they may collectively choose to grant the Gift of Enlightenment. During Enlightenment, all other Companions gather and circle around the Outsider, who positions himself over CT-41, and thin tethers of color gradients connect each Companion to all others. A platform appears below CT-41, holding it in place if it is airborne. The Companions begin to spin rapidly, a protective shield forms around CT-41, and the Companions draw closer until they touch. The screen turns blindingly white, as all targetable enemies are struck by powerful white beams that blast them backward. Every targetable enemy in the current environment takes high damage, and a huge portion of both Necrolith and Battery energy are expended.
 |p As all the Companions gain experience using the Gift of Fusion, the damage, duration and speed of the Gift increase.
 
-|i
-
-Best so far:
+| Best so far:
 
 Movement
 	Haste 		- Slightly boosts all movement
@@ -84,4 +82,4 @@ Persuasion/Dominion - Controls enemies (bad, AI modifying)
 Deception 			- Prevents organic enemies from seeing CT-41 (bad, boring, AI modifying)
 Banishment			- Temporarily removes an object from existence (bad, leads to overlapping objects)
 
-|i OK
+OK
